@@ -1,5 +1,5 @@
 package com.design.creational.factoryPattern;
 
-public interface Shape {
-	void draw();
+public interface IPL {
+	void captain();
 }
